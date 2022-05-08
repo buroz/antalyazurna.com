@@ -9,9 +9,6 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.1"
-  },
-  "dependencies": {
-    "@app/domain": "workspace:libs/domain"
-  },
+  }
   "name": "@app/web"
 }
