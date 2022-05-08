@@ -4,4 +4,6 @@ import { defineNuxtConfig } from "nuxt";
 // console.log(sayHello());
 
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
-export default defineNuxtConfig({});
+export default defineNuxtConfig({
+  buildModules: ["@nuxtjs/tailwindcss"],
+});
